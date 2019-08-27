@@ -1,0 +1,29 @@
+body {
+  
+}
+
+code {
+  
+}
+
+.b{
+  border: 1px solid red;
+}
+
+.footer p{
+  font-size: 0.8rem;
+  color: rgb(31, 179, 238);
+}
+
+.content{
+  margin: 15px auto;
+}
+
+.center-component{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.btn-margin{
+  margin-top: 10px;
+}
